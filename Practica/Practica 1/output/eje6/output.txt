@@ -1,0 +1,6 @@
+Algo satisfecho	1965
+Disconforme	2019
+Muy disconforme	1964
+Muy satisfecho	1961
+No clasificado	48
+Poco satisfecho	1955
