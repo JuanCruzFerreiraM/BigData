@@ -1,1 +1,2 @@
-mediana	51
+mediana	mediana	51
+
